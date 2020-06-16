@@ -116,7 +116,7 @@ Lembre-se de verificar sua página no [achecker](https://achecker.ca/checker/ind
 ### 1 - O corpo da página deve possuir uma cor (diferente da cor branca) como cor de fundo
 ##### As seguintes verificações serão feitas:
 
-- O
+- O avaliador verificará que você **não tem** no CSS do `body` da sua página uma propriedade de `backgroundColor` com a cor branca (ou seja, possuir o valor `rgb(255, 255, 255)`, `#ffffff`, `white` ou similares)
 
 ### 2 - A página deve possuir uma barra superior fixa com o ID "cabecalho"
 ##### As seguintes verificações serão feitas:
