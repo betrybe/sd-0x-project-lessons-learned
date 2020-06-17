@@ -1,8 +1,8 @@
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #VQV 🚀
 
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
+Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma `branch` específica e um _Pull Request_ para colocar seus códigos.
 
 ### 🗒ANTES DE COMEÇAR A DESENVOLVER:
 
@@ -23,8 +23,8 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 3. Crie na raiz do projeto os arquivos que você precisará desenvolver:
   * Verifique que você está na raiz do projeto
     * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/joaozinho/code/**sd-0x-project-lessons-learned**_
-  * Crie os arquivos index.html, style.css e script.js
-    * Exemplo: `touch index.html style.css script.js`
+  * Crie os arquivos index.html e style.css
+    * Exemplo: `touch index.html style.css`
 
 4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
   * Verifique que as mudanças ainda não estão no _stage_
@@ -56,6 +56,14 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório.
 
 Este _Pull Request_ deverá conter os arquivos `index.html` e `style.css`, que conterão seu código HTML e CSS, respectivamente.
+
+## Prazo para entrega
+
+O Prazo para entrega é de **7 dias corridos** após o último dia de projeto.
+
+**Exemplo:** Se o último dia de projeto aconteceu na **quarta-feira, dia 17 de junho**, seu prazo final de entrega será na **quarta-feira 24 de junho** às **14 horas**.
+
+Vale ressaltar que os projetos podem ter mais de um dia de duração, por isso o prazo de **7 dias** é contado à partir do último dia de projeto.
 
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
