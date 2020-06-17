@@ -1,27 +1,39 @@
 {
   "requirements": [
     { 
-      "description": "O corpo da página deve possuir uma cor (diferente da cor branca) como cor de fundo",
+      "description": "O corpo da página deve ter possuir uma cor que seja diferente da cor branca como cor de fundo",
       "bonus": false
     },
     { 
-      "description": "A página deve possuir uma barra superior fixa com o ID \"cabecalho\"",
+      "description": "Seu site deve possuir uma barra superior com um título",
       "bonus": false
     },
     { 
-      "description": "A página deve possuir um rodapé com o ID \"rodape\"",
+      "description": "A página deve possuir uma foto sua",
       "bonus": false
     },
     { 
-      "description": "A página deve possuir pelo menos uma imagem criada com a tag \"img\"",
+      "description": "A página deve possuir uma lista de lições aprendidas",
       "bonus": false
     },
     { 
-      "description": "A página deve possuir duas listas, uma ordenada e a outra não",
+      "description": "A página deve possuir uma lista de lições que ainda deseja aprender",
       "bonus": false
     },
     { 
-      "description": "A página deve possuir pelo menos um link externo (não se esqueça de configurar a abertura desse link em uma nova aba)",
+      "description": "A página deve possuir um rodapé",
+      "bonus": false
+    },
+    { 
+      "description": "A página deve possuir pelo menos um link externo",
+      "bonus": false
+    },
+    { 
+      "description": "Crie um artigo sobre seu aprendizado",
+      "bonus": false
+    },
+    { 
+      "description": "Crie uma seção que conta uma passagem sobre seu aprendizado",
       "bonus": false
     },
     { 
@@ -37,15 +49,15 @@
       "bonus": true
     },
     { 
-      "description": "Altere margin, padding e border dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes",
+      "description": "Brinque com o Box model!",
       "bonus": true
     },
     { 
-      "description": "Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, decoração (itálico, negrito, sublinhado etc)",
+      "description": "Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, espaçamento entre linhas, decoração (itálico, negrito, sublinhado etc)",
       "bonus": true
     },
     { 
-      "description": "Organize componentes para ficarem dispostos lado a lado na página com as classes \"lado-esquerdo\" e \"lado-direito\" respectivamente",
+      "description": "Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro",
       "bonus": true
     }
   ]

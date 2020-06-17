@@ -158,23 +158,23 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 - O rodapé deve possuir o ID "rodape"
 
-### 6 - A página deve possuir pelo menos um link externo 
+### 7 - A página deve possuir pelo menos um link externo 
 
 - A configuração desse link deve ser feita para abrir em uma nova aba do navegador
 
-### 7 - Crie um artigo sobre seu aprendizado
+### 8 - Crie um artigo sobre seu aprendizado
 
 - O artigo deve ter mais de 300 letras e menos de 600
 
 - A `tag` `article` devem ser utilizadas
 
-### 8 - Crie uma seção que conta uma passagem sobre seu aprendizado
+### 9 - Crie uma seção que conta uma passagem sobre seu aprendizado
 
 - A seção deve ter mais que 100 letras e menos que 300
 
 - A `tag` `aside` deve ser utilizada
 
-### 9 - Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles
+### 10 - Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles
 
 - A página deve possuir um elemento `article`
 
@@ -186,19 +186,19 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 - A página deve possuir um elemento `footer`
 
-### 10 - Seu site deve passar sem problemas na verificação de semântica do site achecker
+### 11 - Seu site deve passar sem problemas na verificação de semântica do site achecker
 
 ## Requisitos Bônus:
 
-### 11 - Adicione uma tabela à página
+### 12 - Adicione uma tabela à página
 
-### 12 - Brinque com o Box model!
+### 13 - Brinque com o Box model!
 
 - Altere `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
 
-### 13 - Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, espaçamento entre linhas, decoração (itálico, negrito, sublinhado etc)
+### 14 - Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, espaçamento entre linhas, decoração (itálico, negrito, sublinhado etc)
 
-### 14 - Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro
+### 15 - Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro
 
 - Utilize as classes "lado-esquerdo" e "lado-direito" respectivamente
 
