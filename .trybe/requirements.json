@@ -1,7 +1,7 @@
 {
   "requirements": [
     { 
-      "description": "O corpo da página deve ter possuir uma cor que seja diferente da cor branca como cor de fundo",
+      "description": "O corpo da página deve possuir uma cor de fundo específica",
       "bonus": false
     },
     { 
@@ -53,7 +53,7 @@
       "bonus": true
     },
     { 
-      "description": "Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, espaçamento entre linhas, decoração (itálico, negrito, sublinhado etc)",
+      "description": "Altere atributos relacionados as fontes",
       "bonus": true
     },
     { 

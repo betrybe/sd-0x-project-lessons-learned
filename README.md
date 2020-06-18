@@ -78,7 +78,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 ### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
 
 <!-- ![exemplo de um meme generator](./meme-generator.gif) -->
-Adicione aqui uma imagem do projeto codado
+Adicione aqui uma imagem do projeto codado (Ainda não está pronto)
 
 ## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
 
@@ -126,61 +126,53 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 ## Requisitos do projeto
 
-### 1 - O corpo da página deve ter possuir uma cor que seja diferente da cor branca como cor de fundo
+### 1 - O corpo da página deve possuir uma cor de fundo específica
+
+- Possuir cor de fundo diferente de branco
 
 ### 2 - Seu site deve possuir uma barra superior com um título
 
-- A barra superior deve ser fixa no topo da página
-
 - A barra deve possuir o ID "cabecalho"
 
-- O título deve ser uma tag do tipo `h1`
+- A barra superior deve ser fixa no topo da página, com a propriedade top tendo `0px`
 
-- O título deve possuir o ID "titulo"
+- O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag `h1`
 
 ### 3 - A página deve possuir uma foto sua
 
-- A foto deve ser inserida utilizando uma tag `img`
-
-- A foto deve possuir o ID "minha_foto"
-
-- A foto deve estar imediatamente abaixo da barra superior
+- A foto deve ser inserida utilizando uma tag `img` com o ID "minha_foto"
 
 ### 4 - A página deve possuir uma lista de lições aprendidas
 
-- A lista deve ser numerada
+- A lista deve ser numerada e possuir o ID "licoes_aprendidas"
 
-- A lista deve possuir o ID "licoes_aprendidas"
-
-- A lista deve possuir 10 ou mais itens
+- A lista deve possuir 10 itens
 
 ### 5 - A página deve possuir uma lista de lições que ainda deseja aprender
 
-- A lista **não** deve ser numerada
+- A lista **não** deve ser numerada e deve possuir o ID "licoes_a_aprender"
 
-- A lista deve possuir o ID "licoes_a_aprender"
-
-- A lista deve possuir 10 ou mais itens
+- A lista deve possuir 10 itens
 
 ### 6 - A página deve possuir um rodapé
 
-- O rodapé deve possuir o ID "rodape"
+- O rodapé deve utilizar a tag `footer` e possuir o ID "rodape"
 
-### 7 - A página deve possuir pelo menos um link externo 
+### 7 - A página deve possuir pelo menos um link externo
 
 - A configuração desse link deve ser feita para abrir em uma nova aba do navegador
 
 ### 8 - Crie um artigo sobre seu aprendizado
 
-- O artigo deve ter mais de 300 letras e menos de 600
-
 - A `tag` `article` devem ser utilizadas
+
+- O artigo deve ter mais de 300 letras e menos de 600
 
 ### 9 - Crie uma seção que conta uma passagem sobre seu aprendizado
 
-- A seção deve ter mais que 100 letras e menos que 300
-
 - A `tag` `aside` deve ser utilizada
+
+- A seção deve ter mais que 100 letras e menos que 300
 
 ### 10 - Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles
 
@@ -192,6 +184,8 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 - A página deve possuir um elemento `section`
 
+- A página deve possuir um elemento `aside`
+
 - A página deve possuir um elemento `footer`
 
 ### 11 - Seu site deve passar sem problemas na verificação de semântica do site achecker
@@ -200,15 +194,29 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 ### 12 - Adicione uma tabela à página
 
+- A página deve possuir uma tabela
+
 ### 13 - Brinque com o Box model!
 
 - Altere `margin`, `padding` e `border` dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes
 
-### 14 - Altere atributos relacionados as fontes, como por exemplo, tamanho, cor, alinhamento, espaçamento entre linhas, decoração (itálico, negrito, sublinhado etc)
+### 14 - Altere atributos relacionados as fontes
+
+- Altere o tamanho da letra
+
+- Altere a cor da letra
+
+- Altere o espaçamento entre as linhas
+
+- Altere o `font-family`
 
 ### 15 - Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro
 
-- Utilize as classes "lado-esquerdo" e "lado-direito" respectivamente
+- Utilizar a classe 'lado-esquerdo'
+
+- Utilizar a classe 'lado-direito'
+
+- Verificar se os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
 
 ---
 
@@ -242,7 +250,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 ---
 
-### DEPOIS DE TERMINAR O DESENVOLVIMENTO
+### DEPOIS DE TERMINAR O DESENVOLVIMENTO - OPCIONAL, PORÉM MUITO IMPORTANTE! <3
 
 Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
 
