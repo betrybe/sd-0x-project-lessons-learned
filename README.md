@@ -67,7 +67,7 @@ Vale ressaltar que os projetos podem ter mais de um dia de duração, por isso o
 
 ## ⚠️ É importante que seus arquivos tenham exatamente estes nomes! ⚠️
 
-Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a pessoa Instrutora que te acompanha.
+Você pode adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a Pessoa Instrutora que te acompanha.
 
 Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
 
@@ -107,7 +107,6 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
   * Caso tenha dúvidas, consulte [este vídeo](https://vimeo.com/420861252) ou procure a monitoria.
 
-
 * Você tem liberdade para adicionar novos comportamentos ao seu projeto, seja na forma de aperfeiçoamentos em requisitos propostos ou novas funcionalidades, **desde que tais comportamentos adicionais não conflitem com os requisitos propostos**.
 
   * Em outras palavras, você pode fazer mais do que for pedido, mas nunca menos.
@@ -134,7 +133,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 - A barra deve possuir o ID "cabecalho"
 
-- A barra superior deve ser fixa no topo da página, com a propriedade top tendo `0px`
+- O elemento com o id `cabecalho` deve ser fixo no topo da página, com a propriedade top tendo `0px`
 
 - O título deve estar dentro da barra e possuir o ID "titulo", além de ser uma tag `h1`
 
