@@ -77,8 +77,8 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 ### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
 
-<!-- ![exemplo de um meme generator](./meme-generator.gif) -->
-Adicione aqui uma imagem do projeto codado (Ainda não está pronto)
+![exemplo](./exemplo.png)
+
 
 ## ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
 
