@@ -105,7 +105,7 @@ O não cumprimento de um requisito, total ou parcialmente, impactará em sua ava
 
   * Analise os resultados a partir da mensagem _**"(Run Starting)"**_;
 
-  * Caso tenha dúvidas, consulte [este vídeo](https://vimeo.com/420861252) ou procure a monitoria.
+  * Caso tenha dúvidas, consulte [este vídeo](https://vimeo.com/420861252) ou procure as pessoas instrutoras.
 
 * Você tem liberdade para adicionar novos comportamentos ao seu projeto, seja na forma de aperfeiçoamentos em requisitos propostos ou novas funcionalidades, **desde que tais comportamentos adicionais não conflitem com os requisitos propostos**.
 
