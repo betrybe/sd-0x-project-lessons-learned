@@ -127,7 +127,7 @@ Você deve criar um site que com uma série de informações a respeito do que v
 
 ### 1 - O corpo da página deve possuir uma cor de fundo específica
 
-- Possuir cor de fundo diferente de branco
+- Possuir cor de fundo: rgb(253, 251, 251)
 
 ### 2 - Seu site deve possuir uma barra superior com um título
 
