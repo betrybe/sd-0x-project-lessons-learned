@@ -24,7 +24,6 @@ Nesse projeto, você será capaz de:
 - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
 - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
 - [Como desenvolver](#como-desenvolver)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
 - [Data de entrega](#data-de-entrega)
 - [Requisitos do projeto](#requisitos-do-projeto)
   - [Avaliador Automático](#avaliador-automático)
@@ -40,9 +39,9 @@ Nesse projeto, você será capaz de:
 - [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
 - [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
 - [10. Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles](#10-torne-o-seu-site-mais-acessível-e-melhore-seu-ranqueamento-em-mecanismos-de-busca-na-web-aplicando-os-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
-- [11. Seu site deve passar sem problemas na verificação de semântica do site achecker](#11-seu-site-deve-passar-sem-problemas-na-verificação-de-semântica-do-site achecker)
+- [11. Seu site deve passar sem problemas na verificação de semântica do site achecker](#11-seu-site-deve-passar-sem-problemas-na-verificação-de-semântica-do-site-achecker)
 - [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
-- [13. Brinque com o Box model!](#13-brinque-com-o-box model!)
+- [13. Brinque com o Box model!](#13-brinque-com-o-box-model!)
 - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
 - [15. Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro](#15-faça-com-que-seu-artigo-e-seção-sobre-aprendizados-fiquem-um-ao-lado-do-outro)
 
@@ -51,7 +50,7 @@ Nesse projeto, você será capaz de:
 - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
 - [Revisando um Pull Request](#revisando-um-pull-request)
 
-### 🗒ANTES DE COMEÇAR A DESENVOLVER:
+### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
   * `git clone https://github.com/tryber/sd-0x-project-lessons-learned.git`.
