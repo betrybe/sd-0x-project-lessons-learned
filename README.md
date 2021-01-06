@@ -100,7 +100,7 @@ Nesse projeto, você será capaz de:
 
 ## O QUE DEVERÁ SER DESENVOLVIDO
 
-Você vai desenvolver um site que contenha uma série de informações sobre o que vocÊ aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
 ---
 
@@ -134,7 +134,7 @@ O projeto deverá ser entregue até a seguinte data para a avaliação final: ``
 
 * Caso a avaliação falhe com alguma mensagem de erro parecida com `[409:0326/130838.878602:FATAL:memory.cc(22)] Out of memory. size=4194304`, provavelmente as imagens que você está utilizando estão muito grandes. Tente redimensiona-las para um tamanho menor.
 
-* Para verificar se a sua avaliação foi computada com sucesso, você pode verificar os **detalhes da execução do avaliador**.
+Para verificar se a sua avaliação foi computada com sucesso, você pode verificar os **detalhes da execução do avaliador**.
 
 * Na página do seu _Pull Request_, acima do "botão de merge", procure por _**"Evaluator job"**_ e clique no link _**"Details"**_;
 
@@ -278,7 +278,7 @@ Altere **margin**, **padding** e **border** dos elementos para ver, na prática,
 
 O que será verificado:
 - A propriedade **margin** foi alterada
-- A propriedade **padding**foi alterada
+- A propriedade **padding** foi alterada
 - A propriedade **border** foi alterada
 
 ### 14. Altere atributos relacionados as fontes
@@ -298,7 +298,7 @@ O que será verificado:
 
 - A classe "lado-esquerdo" está sendo utilizada
 - A classe "lado-direito" está sendo utilizada
-- Os elementos com as classes lado-direito e lado-esquerdo estão posicionados corretamente
+- Os elementos com as classes "lado-direito" e "lado-esquerdo" estão posicionados corretamente
 
 ---
 
