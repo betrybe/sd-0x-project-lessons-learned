@@ -10,7 +10,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 
 ## HABILIDADES
 
-Nesse projeto, você será capaz de:
+Neste projeto, você será capaz de:
 
 * Utiizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua páigna mais acessível e melhor ranqueada.
