@@ -292,7 +292,7 @@ O que será verificado:
 
 ### 15. Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro
 
-Adicione ao elemento posicionado no lado esquerdo a casse "lado-esquerdo" e ao elemento posicionado no lado direito a classe "lado-direito"
+Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao elemento posicionado no lado direito a classe "lado-direito"
 
 O que será verificado:
 
