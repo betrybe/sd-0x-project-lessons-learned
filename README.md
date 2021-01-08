@@ -274,7 +274,7 @@ O que será verificado:
 - Seu rodapé tem a tag **footer**
 - Seu rodapé tem o ID "rodape"
 
-### 7. A página deve possuir pelo menos um link externo
+### 7. Insira pelo menos um link externo na página
 
 A configuração desse link deve ser feita para abrir em uma nova aba do navegador
 
