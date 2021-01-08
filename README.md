@@ -255,7 +255,7 @@ O que será verificado:
 - Sua lista possui **10** itens
 - Sua lista tem o ID "licoes_aprendidas"
 
-### 5. A página deve possuir uma lista de lições que ainda deseja aprender
+### 5. Crie uma lista de lições que ainda deseja aprender para a página
 
 A lista deve possuir **10** itens, não ser numerada e possuir o ID "licoes_a_aprender".
 
