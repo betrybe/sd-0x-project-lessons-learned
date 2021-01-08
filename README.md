@@ -265,7 +265,7 @@ O que será verificado:
 - Sua lista possui **10** itens
 - Sua lista tem o ID "licoes_a_aprender"
 
-### 6. A página deve possuir um rodapé
+### 6. Adicione um rodapé para a página
 
 O rodapé deve utilizar a tag **footer** e possuir o ID "rodape".
 
