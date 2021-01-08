@@ -245,7 +245,7 @@ O que será verificado:
 - Sua foto é um elemento com a tag **img**
 - O ID da sua foto é "minha_foto"
 
-### 4. A página deve possuir uma lista de lições aprendidas
+### 4. Adicione uma lista de lições aprendidas a página
 
 A lista deve possuir **10** itens, ser numerada e possuir o ID "licoes_aprendidas".
 
