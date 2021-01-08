@@ -299,7 +299,7 @@ O que será verificado:
 - A tag **aside** foi utilizada
 - O artigo possui mais de 300 e menos de 600 **caracteres**
 
-### 10. Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles
+### 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles.
 
 Para tornar o seu site mais acessível e melhorar seu ranqueamento em mecanismos de busca na Web, sua página deve conter os seguintes elementos: article, header, nav, section, aside e footer.
 
