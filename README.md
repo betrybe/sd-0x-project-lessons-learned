@@ -1,3 +1,5 @@
+### Termos e acordos
+
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
 
 # Boas vindas ao repositório do projeto Lições Aprendidas!
@@ -7,6 +9,41 @@ Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
 ---
+
+## SUMÁRIO
+
+- [Habilidades](#habilidades)
+- [Entregáveis](#entregáveis)
+  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
+  - [Desenvolvimento](#desenvolvimento)
+  - [Data de entrega](#data-de-entrega)
+- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
+  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
+  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
+- [Como desenvolver](#como-desenvolver)
+  - [Avaliador Automático](#avaliador-automático)
+- [Requisitos](#requisitos)
+  - [Dicas](#dicas)
+  - [Lista de requisitos](#lista-de-requisitos)
+    - [1. Adicione uma cor de fundo específica para a página](#1.-adicione-uma-cor-de-fundo-específica-para-a-página)
+    - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
+    - [3. A página deve possuir uma foto sua](#3-a-página-deve-possuir-uma-foto-sua)
+    - [4. A página deve possuir uma lista de lições aprendidas](#4-a-página-deve-possuir-uma-lista-de-lições-aprendidas)
+    - [5. A página deve possuir uma lista de lições que ainda deseja aprender](#5-a-página-deve-possuir-uma-lista-de-lições-que-ainda-deseja-aprender)
+    - [6. A página deve possuir um rodapé](#6-a-página-deve-possuir-um-rodapé)
+    - [7. A página deve possuir pelo menos um link externo](#7-a-página-deve-possuir-pelo-menos-um-link-externo)
+    - [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
+    - [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
+    - [10. Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles](#10-torne-o-seu-site-mais-acessível-e-melhore-seu-ranqueamento-em-mecanismos-de-busca-na-web-aplicando-os-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
+  - [Bônus](#bônus)
+    - [11. Teste a semântica da sua página está aprovada pelo site achecker](#11-teste-a-semântica-da-sua-página-está-aprovada-pelo-site-achecker)
+    - [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
+    - [13. Utilize o Box model](#13-utilize-o-box-model)
+    - [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
+    - [15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro](#15-posicione-o-seu-artigo-e-a-seção-sobre-aprendizados-um-ao-lado-do-outro)
+- [Avisos Finais](#avisos-finais)
+
 
 ## HABILIDADES
 
@@ -18,39 +55,33 @@ Neste projeto, você será capaz de:
 
 ---
 
-## SUMÁRIO
+## ENTREGÁVEIS
 
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-- [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-- [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-- [Como desenvolver](#como-desenvolver)
-- [Data de entrega](#data-de-entrega)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [Avaliador Automático](#avaliador-automático)
-  - [Dicas](#dicas)
-- [Lista de requisitos](#lista-de-requisitos)
-- [1. O corpo da página deve possuir uma cor de fundo específica](#1-o-corpo-da-página-deve-possuir-uma-cor-de-fundo-específica)
-- [2. Seu site deve possuir uma barra superior com um título](#2-seu-site-deve-possuir-uma-barra-superior-com-um-título)
-- [3. A página deve possuir uma foto sua](#3-a-página-deve-possuir-uma-foto-sua)
-- [4. A página deve possuir uma lista de lições aprendidas](#4-a-página-deve-possuir-uma-lista-de-lições-aprendidas)
-- [5. A página deve possuir uma lista de lições que ainda deseja aprender](#5-a-página-deve-possuir-uma-lista-de-lições-que-ainda-deseja-aprender)
-- [6. A página deve possuir um rodapé](#6-a-página-deve-possuir-um-rodapé)
-- [7. A página deve possuir pelo menos um link externo](#7-a-página-deve-possuir-pelo-menos-um-link-externo)
-- [8. Crie um artigo sobre seu aprendizado](#8-crie-um-artigo-sobre-seu-aprendizado)
-- [9. Crie uma seção que conta uma passagem sobre seu aprendizado](#9-crie-uma-seção-que-conta-uma-passagem-sobre-seu-aprendizado)
-- [10. Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles](#10-torne-o-seu-site-mais-acessível-e-melhore-seu-ranqueamento-em-mecanismos-de-busca-na-web-aplicando-os-elementos-html-de-acordo-com-o-sentido-e-propósito-de-cada-um-deles)
-- [11. Seu site deve passar sem problemas na verificação de semântica do site achecker](#11-seu-site-deve-passar-sem-problemas-na-verificação-de-semântica-do-site-achecker)
-- [12. Adicione uma tabela à página](#12-adicione-uma-tabela-à-página)
-- [13. Brinque com o Box model!](#13-brinque-com-o-box-model!)
-- [14. Altere atributos relacionados as fontes](#14-altere-atributos-relacionados-as-fontes)
-- [15. Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro](#15-faça-com-que-seu-artigo-e-seção-sobre-aprendizados-fiquem-um-ao-lado-do-outro)
+## O QUE DEVERÁ SER DESENVOLVIDO
 
+Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
-- [Durante o desenvolvimento](#durante-o-desenvolvimento)
-- [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Revisando um Pull Request](#revisando-um-pull-request)
+💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
 
-### ANTES DE COMEÇAR A DESENVOLVER:
+![exemplo](./exemplo.png)
+
+## DESENVOLVIMENTO
+
+Você deve desenvolver uma página HTML estilizada com CSS.
+
+Através desta aplicação, será possível realizar a construção de código HTML, posicionamento e estilização CSS.
+
+## DATA DE ENTREGA
+
+  - Projeto individual.
+
+  - Serão dois dias de projeto.
+  
+  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+
+---
+
+## ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
   * `git clone https://github.com/tryber/sd-0x-project-lessons-learned.git`.
@@ -96,11 +127,41 @@ Neste projeto, você será capaz de:
   * **Não se preocupe em preencher mais nada por enquanto!**
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
+--- 
+
+## DURANTE O DESENVOLVIMENTO
+
+* Faça `commits` das alterações que você fizer no código regularmente;
+
+* Lembre-se de sempre após um ~~(ou alguns)~~ `commits` atualizar o repositório remoto (o famoso `git push`);
+
+* Os comandos que você utilizará com mais frequência são:
+
+  1. `git status` _(para verificar o que está em vermelho - fora do stage - e o que está em verde - no stage)_;
+
+  2. `git add` _(para adicionar arquivos ao stage do Git)_;
+
+  3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_;
+
+  5. `git push -u nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_;
+
+  4. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_.
+
 ---
 
-## O QUE DEVERÁ SER DESENVOLVIDO
+## DEPOIS DE TERMINAR O DESENVOLVIMENTO (OPCIONAL)
 
-Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
+Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
+
+* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas:
+
+  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
+
+  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
+
+  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+
+Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
 ---
 
@@ -112,15 +173,6 @@ Você é livre para adicionar outros arquivos se julgar necessário. Qualquer d�
 
 Lembre-se que sua página deverá connter semântica adequada e para isso verifique se sua página está aprovada no [achecker](https://achecker.ca/checker/index.php).
 
----
-
-## DATA DE ENTREGA
-
-O projeto deverá ser entregue até a seguinte data para a avaliação final: ``DD/MM/YYYY - 00:00h``.
-
----
-
-## REQUISITOS DO PROJETO
 
 ### AVALIADOR AUTOMÁTICO
 
@@ -152,32 +204,28 @@ Você tem liberdade para adicionar novos comportamentos ao seu projeto, seja na 
 
 ---
 
+## REQUISITOS
+
 ### DICAS
 
 Para fazer este projeto você deverá atribuir a barra superior o `position: fixed;`. Leia mais sobre ele [aqui](https://www.w3schools.com/css/css_positioning.asp).
 
 Para colocar sua página no [GitHub Pages](https://pages.github.com/), não é necessário remover o conteúdo que já está lá, você pode apenas adicionar essa nova página. Para isso, todo o conteúdo desse projeto deve ser colocado em uma pasta `/projetos/lessons-learned`.
 
----
-
-## LISTA DE REQUISITOS
-
-💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
-
-![exemplo](./exemplo.png)
+### LISTA DE REQUISITOS
 
 ⚠️ Leia-os atentamente e siga à risca o que for pedido. Em particular, **atente-se para os nomes de _ids_ que alguns elementos de seu projeto devem possuir**. ⚠️
 
 O não cumprimento de um requisito, total ou parcialmente, impactará em sua avaliação.
 
-### 1. O corpo da página deve possuir uma cor de fundo específica
+### 1. Adicione uma cor de fundo específica para a página
 
 Possuir cor de fundo: rgb(253, 251, 251)
 
 O que será verificado:
 - A cor de fundo da página é rgb(253, 251, 251)
 
-### 2. Seu site deve possuir uma barra superior com um título
+### 2. Adicione uma barra superior com um título
 
 A barra deve possuir o ID "cabecalho" e deve ser fixa no topo da página com a propriedade top tendo **0px**. O título deve estar dentro da barra e ser um elemento **h1** com ID "titulo".
 
@@ -253,7 +301,7 @@ O que será verificado:
 
 ### 10. Torne o seu site mais acessível e melhore seu ranqueamento em mecanismos de busca na Web aplicando os elementos HTML de acordo com o sentido e propósito de cada um deles
 
-Sua página deve conter os seguintes elementos: article, header, nav, section, aside e footer.
+Para tornar o seu site mais acessível e melhorar seu ranqueamento em mecanismos de busca na Web, sua página deve conter os seguintes elementos: article, header, nav, section, aside e footer.
 
 O que será verificado:
 - A página possui um elemento **article**
@@ -263,7 +311,7 @@ O que será verificado:
 - A página possui um elemento **aside**
 - A página possui um elemento **footer**
 
-### 11. Seu site deve passar sem problemas na verificação de semântica do site achecker
+### 11. Teste a semântica da sua página está aprovada pelo site achecker
 
 ### BÔNUS
 
@@ -272,7 +320,7 @@ O que será verificado:
 O que será verificado:
 - A página possui uma tabela
 
-### 13. Brinque com o Box model!
+### 13. Utilize o Box model
 
 Altere **margin**, **padding** e **border** dos elementos para ver, na prática, como esses atributos influenciam e melhoram a visualização dos componentes.
 
@@ -290,7 +338,7 @@ O que será verificado:
 - O espaçamento entre as linhas foi alterado
 - A **font-family** foi alterada
 
-### 15. Faça com que seu artigo e seção sobre aprendizados fiquem um ao lado do outro
+### 15. Posicione o seu artigo e a seção sobre aprendizados um ao lado do outro
 
 Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao elemento posicionado no lado direito a classe "lado-direito"
 
@@ -302,43 +350,7 @@ O que será verificado:
 
 ---
 
-## DURANTE O DESENVOLVIMENTO
-
-* Faça `commits` das alterações que você fizer no código regularmente;
-
-* Lembre-se de sempre após um ~~(ou alguns)~~ `commits` atualizar o repositório remoto (o famoso `git push`);
-
-* Os comandos que você utilizará com mais frequência são:
-
-  1. `git status` _(para verificar o que está em vermelho - fora do stage - e o que está em verde - no stage)_;
-
-  2. `git add` _(para adicionar arquivos ao stage do Git)_;
-
-  3. `git commit` _(para criar um commit com os arquivos que estão no stage do Git)_;
-
-  5. `git push -u nome-da-branch` _(para enviar o commit para o repositório remoto na primeira vez que fizer o `push` de uma nova branch)_;
-
-  4. `git push` _(para enviar o commit para o repositório remoto após o passo anterior)_.
-
----
-
-## DEPOIS DE TERMINAR O DESENVOLVIMENTO (OPCIONAL)
-
-Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
-
-* Vá até a página **DO SEU** _Pull Request_, adicione a label de _"code-review"_ e marque seus colegas:
-
-  * No menu à direita, clique no _link_ **"Labels"** e escolha a _label_ **code-review**;
-
-  * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
-
-  * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
-
-Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
-
----
-
-## ENTREGA
+## AVISOS FINAIS
 
 Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
 
@@ -347,9 +359,3 @@ Link: [Avaliação](https://be-trybe.typeform.com/to/ZTeR4IbH)
 O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no _README_. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
 
 ---
-
-## REVISANDO UM PULL REQUEST
-
-Use o conteúdo sobre [Code Review](https://course.betrybe.com/real-life-engineer/code-review/) para te ajudar a revisar os _Pull Requests_.
-
-#VQV 🚀
