@@ -236,7 +236,7 @@ O que será verificado:
 - O título está dentro da barra
 - O título é um elemento **h1** com ID "titulo"
 
-### 3. A página deve possuir uma foto sua
+### 3. Adicione uma foto sua a página
 
 A foto deve ser inserida utilizando uma tag **img** com o ID "minha_foto".
 
