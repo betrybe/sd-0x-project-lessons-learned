@@ -88,6 +88,10 @@ Através desta aplicação, será possível realizar a construção de código H
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-0x-project-lessons-learned`
 
+2. Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * npm install
+
 2. Crie uma branch a partir da branch `master`
   * Verifique que você está na branch `master`
     * Exemplo: `git branch`
@@ -166,6 +170,16 @@ Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362
 ---
 
 ## COMO DESENVOLVER
+
+### Linter
+
+Para garantir a qualidade do seu código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento nós utilizamos neste projeto o linter `ESLint`. Para rodar o linter localmente no seu projeto, execute o comando abaixo:
+
+```bash
+npm run lint:styles
+```
+
+⚠ **NESTE PROJETO O STYLELING NÃO SERÁ AVALIADO. VOCÊ PODE RODAR O TESTE LOCALMENTE E FAZER AS CORREÇÕES SE DESEJAR!** ⚠
 
 Após clonar o projeto, você deverá criar os arquivos **index.html** e **style.css** que conterão seu código HTML e CSS, respectivamente. Observe que seus arquivos **devem** possuir estes nomes para que seu projeto seja testado corretamente pelo avaliador automático.
 
