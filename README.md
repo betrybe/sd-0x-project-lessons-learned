@@ -28,8 +28,8 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   - [Lista de requisitos](#lista-de-requisitos)
     - [1. Adicione uma cor de fundo específica para a página](#1.-adicione-uma-cor-de-fundo-específica-para-a-página)
     - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
-    - [3. Adicione uma foto sua a página](#3-adicione-uma-foto-sua-a-página)
-    - [4. Adicione uma lista de lições aprendidas a página](#4-adicione-uma-lista-de-lições-aprendidas-a-página)
+    - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
+    - [4. Adicione uma lista de lições aprendidas à página](#4-adicione-uma-lista-de-lições-aprendidas-a-página)
     - [5. Crie uma lista de lições que ainda deseja aprender para a página](#5-crie-uma-lista-de-lições-que-ainda-deseja-aprender-para-a-página)
     - [6. Adicione um rodapé para a página](#6-adicione-um-rodapé-para-a-página)
     - [7. Insira pelo menos um link externo na página](#7-insira-pelo-menos-um-link-externo-na-página)
@@ -236,7 +236,7 @@ O que será verificado:
 - O título está dentro da barra
 - O título é um elemento **h1** com ID "titulo"
 
-### 3. Adicione uma foto sua a página
+### 3. Adicione uma foto sua à página
 
 A foto deve ser inserida utilizando uma tag **img** com o ID "minha_foto".
 
@@ -245,7 +245,7 @@ O que será verificado:
 - Sua foto é um elemento com a tag **img**
 - O ID da sua foto é "minha_foto"
 
-### 4. Adicione uma lista de lições aprendidas a página
+### 4. Adicione uma lista de lições aprendidas à página
 
 A lista deve possuir **10** itens, ser numerada e possuir o ID "licoes_aprendidas".
 
@@ -299,7 +299,7 @@ O que será verificado:
 - A tag **aside** foi utilizada
 - O artigo possui mais de 300 e menos de 600 **caracteres**
 
-### 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles.
+### 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
 
 Para tornar o seu site mais acessível e melhorar seu ranqueamento em mecanismos de busca na Web, sua página deve conter os seguintes elementos: article, header, nav, section, aside e footer.
 
