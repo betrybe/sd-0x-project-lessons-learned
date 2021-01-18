@@ -26,10 +26,10 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 - [Requisitos](#requisitos)
   - [Dicas](#dicas)
   - [Lista de requisitos](#lista-de-requisitos)
-    - [1. Adicione uma cor de fundo específica para a página](#1.-adicione-uma-cor-de-fundo-específica-para-a-página)
+    - [1. Adicione uma cor de fundo específica para a página](#1-adicione-uma-cor-de-fundo-específica-para-a-página)
     - [2. Adicione uma barra superior com um título](#2-adicione-uma-barra-superior-com-um-título)
     - [3. Adicione uma foto sua à página](#3-adicione-uma-foto-sua-à-página)
-    - [4. Adicione uma lista de lições aprendidas à página](#4-adicione-uma-lista-de-lições-aprendidas-a-página)
+    - [4. Adicione uma lista de lições aprendidas à página](#4-adicione-uma-lista-de-lições-aprendidas-à-página)
     - [5. Crie uma lista de lições que ainda deseja aprender para a página](#5-crie-uma-lista-de-lições-que-ainda-deseja-aprender-para-a-página)
     - [6. Adicione um rodapé para a página](#6-adicione-um-rodapé-para-a-página)
     - [7. Insira pelo menos um link externo na página](#7-insira-pelo-menos-um-link-externo-na-página)
@@ -81,7 +81,9 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ---
 
-## ANTES DE COMEÇAR A DESENVOLVER:
+## INSTRUÇÕES PARA ENTREGAR SEU PROJETO
+
+### ANTES DE COMEÇAR A DESENVOLVER
 
 1. Clone o repositório
   * `git clone https://github.com/tryber/sd-0x-project-lessons-learned.git`.
@@ -133,7 +135,7 @@ Através desta aplicação, será possível realizar a construção de código H
 
 --- 
 
-## DURANTE O DESENVOLVIMENTO
+### DURANTE O DESENVOLVIMENTO
 
 * Faça `commits` das alterações que você fizer no código regularmente;
 
@@ -153,7 +155,7 @@ Através desta aplicação, será possível realizar a construção de código H
 
 ---
 
-## DEPOIS DE TERMINAR O DESENVOLVIMENTO (OPCIONAL)
+### DEPOIS DE TERMINAR O DESENVOLVIMENTO (OPCIONAL)
 
 Para sinalizar que o seu projeto está pronto para o _"Code Review"_ dos seus colegas, faça o seguinte:
 
@@ -296,7 +298,7 @@ O que será verificado:
 - A página possui um link externo
 - Ao ser acessado este link será aberto em uma nova aba
 
-### 8.  Crie um artigo sobre seu aprendizado
+### 8. Crie um artigo sobre seu aprendizado
 
 O artigo deverá possuir mais de 300 **caracteres** e menos de 600, além disto deve possuir a tag **article**.
 
