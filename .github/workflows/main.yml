@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Cypress evaluator step
         id: cypress
-        uses: betrybe/cypress-evaluator-action@v2
+        uses: betrybe/cypress-evaluator-action@v5
         with:
           repository-test-name: 'betrybe/sd-0x-project-lessons-learned-tests'
           repository-test-branch: 'master'
