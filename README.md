@@ -83,7 +83,7 @@ Através desta aplicação, será possível realizar a construção de código H
 ## Data de Entrega
 
   - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `00/00/0000 - 00:00h`.
+  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
 
 ---
 
@@ -137,7 +137,7 @@ Através desta aplicação, será possível realizar a construção de código H
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-010-b-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
 --- 
 
