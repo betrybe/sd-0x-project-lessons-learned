@@ -4,7 +4,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e
 
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
+Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir deste repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
@@ -52,7 +52,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 Neste projeto, você será capaz de:
 
 * Utiizar _HTML_ para construir páginas WEB.
-* Utilizar _HTML_ semântico para tornar sua páigna mais acessível e melhor ranqueada.
+* Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
 
 ---
@@ -70,7 +70,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre
 
 Você vai desenvolver um site que contenha uma série de informações sobre o que você aprendeu aqui na Trybe ao longo dos últimos três blocos. Seu site deverá estar com elementos posicionados e estilizados e além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
-💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
+💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar todas as pessoas!
 
 ![exemplo](./exemplo.png)
 
@@ -83,7 +83,7 @@ Através desta aplicação, será possível realizar a construção de código H
 ## Data de Entrega
 
   - Serão `X` dias de projeto.
-  - Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+  - Data de entrega para avaliação final do projeto: `00/00/0000 - 00:00h`.
 
 ---
 
@@ -92,7 +92,7 @@ Através desta aplicação, será possível realizar a construção de código H
 ### Antes de começar a desenvolver
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-0x-project-lessons-learned.git`.
+  * `git clone git@github.com:tryber/sd-0x-project-lessons-learned.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-0x-project-lessons-learned`
 
@@ -137,13 +137,11 @@ Através desta aplicação, será possível realizar a construção de código H
   * Clique no botão verde _"Create pull request"_
   * Adicione uma descrição para o _Pull Request_, um título claro que o identifique, e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-010-b-project-lessons-learned/pulls) e confira que o seu _Pull Request_ está criado
 
 --- 
 
 ### Durante o desenvolvimento
-
-* ⚠ **PULL REQUESTS COM ISSUES NO LINTER NÃO SERÃO AVALIADAS, ATENTE-SE PARA RESOLVÊ-LAS ANTES DE FINALIZAR O DESENVOLVIMENTO!** ⚠
 
 * Faça `commits` das alterações que você fizer no código regularmente
 
@@ -168,13 +166,13 @@ Para garantir a qualidade do seu código de forma a tê-lo mais legível, de mai
 npm run lint:styles
 ```
 
-⚠ **NESTE PROJETO O STYLELING NÃO SERÁ AVALIADO. VOCÊ PODE RODAR O TESTE LOCALMENTE E FAZER AS CORREÇÕES SE DESEJAR!** ⚠
+⚠ **NESTE PROJETO O STYLELINT NÃO SERÁ AVALIADO. VOCÊ PODE RODAR O TESTE LOCALMENTE E FAZER AS CORREÇÕES SE DESEJAR!** ⚠
 
 Após clonar o projeto, você deverá criar os arquivos **index.html** e **style.css** que conterão seu código HTML e CSS, respectivamente. Observe que seus arquivos **devem** possuir estes nomes para que seu projeto seja testado corretamente pelo avaliador automático.
 
 Você é livre para adicionar outros arquivos se julgar necessário. Qualquer dúvida, procure a Pessoa Instrutora que te acompanha.
 
-Lembre-se que sua página deverá connter semântica adequada e para isso verifique se sua página está aprovada no [achecker](https://achecker.ca/checker/index.php).
+Lembre-se que sua página deverá conter semântica adequada e para isso verifique se sua página está aprovada no [achecker](https://achecker.ca/checker/index.php).
 
 
 ### Avaliador automático
